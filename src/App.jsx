@@ -1,4 +1,4 @@
-import SocialProofSection from './assets/components/SocialProofSection'
+import SocialProofSection from './components/SocialProofSection'
 
 const App = () => {
   return <SocialProofSection />
