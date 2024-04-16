@@ -18,11 +18,11 @@ const SocialProofSection = () => {
               <article>
                 <div className="star-wrapper">
                   <div className="images-wrapper">
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
                   </div>
                   <p>Rated 5 Stars in Reviews</p>
                 </div>
@@ -30,11 +30,11 @@ const SocialProofSection = () => {
               <article>
                 <div className="star-wrapper">
                   <div className="images-wrapper">
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
                   </div>
                   <p>Rated 5 Stars in Report Guru</p>
                 </div>
@@ -42,11 +42,11 @@ const SocialProofSection = () => {
               <article>
                 <div className="star-wrapper">
                   <div className="images-wrapper">
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
-                    <img src="/images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
+                    <img src="images/icon-star.svg" alt="Star Icon" />
                   </div>
                   <p>Rated 5 Stars in BestTech</p>
                 </div>
@@ -60,7 +60,7 @@ const SocialProofSection = () => {
               <article>
                 <div className="review-wrapper">
                   <div className="profile-wrapper">
-                    <img src="/images/image-colton.jpg" alt="Colton Smith" />
+                    <img src="images/image-colton.jpg" alt="Colton Smith" />
                     <div className="name-wrapper">
                       <p className="name">Colton Smith</p>
                       <p className="verified">Verified Buyer</p>
@@ -78,7 +78,7 @@ const SocialProofSection = () => {
               <article>
                 <div className="review-wrapper">
                   <div className="profile-wrapper">
-                    <img src="/images/image-irene.jpg" alt="Irene Roberts" />
+                    <img src="images/image-irene.jpg" alt="Irene Roberts" />
                     <div className="name-wrapper">
                       <p className="name">Irene Roberts</p>
                       <p className="verified">Verified Buyer</p>
@@ -96,7 +96,7 @@ const SocialProofSection = () => {
               <article>
                 <div className="review-wrapper">
                   <div className="profile-wrapper">
-                    <img src="/images/image-anne.jpg" alt="Anne Wallace" />
+                    <img src="images/image-anne.jpg" alt="Anne Wallace" />
                     <div className="name-wrapper">
                       <p className="name">Anne Wallace</p>
                       <p className="verified">Verified Buyer</p>
